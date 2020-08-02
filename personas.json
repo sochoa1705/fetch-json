@@ -1,0 +1,114 @@
+{
+    "personas": [
+        {
+            "nombre": "Juan Pérez Galones",
+            "altura": 1.72,
+            "peso": 75,
+            "pasatiempos": [
+                "Comics",
+                "Baloncesto",
+                "Gaming"
+            ],
+            "soltero": true,
+            "direccion": {
+                "calle": "Avenida Soleares",
+                "numero": "44",
+                "pais": "Chile"
+            }
+        },
+        {
+            "nombre": "Pedro Motos Sandez",
+            "altura": 1.69,
+            "peso": 72,
+            "pasatiempos": [
+                "Programación",
+                "Senderismo"
+            ],
+            "soltero": true,
+            "direccion": {
+                "calle": "Torero Pedro Cano",
+                "numero": "78",
+                "pais": "México"
+            }
+        },
+		{
+            "nombre": "Pedro Navaja Filuda",
+            "altura": 1.60,
+            "peso": 65,
+            "pasatiempos": [
+                "Robo",
+                "Barcelona",
+                "Futbol"
+            ],
+            "soltero": true,
+            "direccion": {
+                "calle": "Avenida del Ciclista",
+                "numero": "5",
+                "pais": "Ecuador"
+            }
+        },
+		{
+            "nombre": "Steven Paredes",
+            "altura": 1.80,
+            "peso": 105,
+            "pasatiempos": [
+                "Freestyle",
+                "Comer",
+                "Amante"
+            ],
+            "soltero": true,
+            "direccion": {
+                "calle": "Plaza Argentina",
+                "numero": "56",
+                "pais": "Perú"
+            }
+        },
+		{
+            "nombre": "Jorge Ulloa",
+            "altura": 1.78,
+            "peso": 85,
+            "pasatiempos": [
+                "StandUp",
+                "Dormir"
+            ],
+            "soltero": false,
+            "direccion": {
+                "calle": "Avenida Ilalo",
+                "numero": "85",
+                "pais": "Ecuador"
+            }
+        },
+		{
+            "nombre": "Alisson Yakitori",
+            "altura": 1.58,
+            "peso": 68,
+            "pasatiempos": [
+                "Cantar",
+                "Poesía",
+                "Escribir"
+            ],
+            "soltero": true,
+            "direccion": {
+                "calle": "Av Luz de América y Nogales",
+                "numero": "S4405",
+                "pais": "Argentina"
+            }
+        },
+		{
+            "nombre": "Fernando Gutierritos",
+            "altura": 2.10,
+            "peso": 85,
+            "pasatiempos": [
+                "Correr",
+                "Natación",
+                "Ir a concientos"
+            ],
+            "soltero": false,
+            "direccion": {
+                "calle": "Av. Rosario Centras y Juan Salinas",
+                "numero": "23645",
+                "pais": "Colombia"
+            }
+        }
+    ]
+}
