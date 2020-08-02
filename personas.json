@@ -1,8 +1,3 @@
-// JSON Document
-// crear html y usar css para dar formato
-//aumentar 5 personas mas con datos variados.
-//visualizar esos datos usando FETCH en lugar de AJAX como en el ejemplo enviado. URLS DE INTERES (USADAS)
-
 {
     "personas": [
         {
